@@ -3,3 +3,4 @@ GitHub Username: LooninS
 Favorite 2D Platformer: Dead Cells
 How would you like to start contributing?:
 Explorer/Dev
+~/IIT2025099.png(Issue #2)
